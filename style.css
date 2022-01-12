@@ -3,9 +3,11 @@ body{
     padding: 0;
 }
 
-.first-section{
+.display-section{
     display: flex;
     margin: 2px 0px;
+    width: 100%;
+    height: 100%;
 }
 
 .half-width{
@@ -49,4 +51,37 @@ body{
   font-size: 50px;
   font-family: 'Dancing Script', cursive;
   font-family: 'Lobster', cursive;
+}
+
+#div-box-01{
+    background-color: #00D8C8;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+#div-box-01 img{
+    width: 30%;
+}
+
+#div-box-02{
+    background-color: #00EF3A;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+#div-box-02 img{
+    width: 30%;
+}
+
+#div-box-03{
+    background-color: #676ddf;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+#div-box-03 img{
+    width: 30%;
 }
