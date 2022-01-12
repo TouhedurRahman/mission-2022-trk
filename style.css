@@ -43,3 +43,10 @@ body{
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+#second-section-header{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster', cursive;
+}
