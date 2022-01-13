@@ -85,3 +85,16 @@ body{
 #div-box-03 img{
     width: 30%;
 }
+
+footer{
+    margin: 0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: whitesmoke;
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 7px;
+}
